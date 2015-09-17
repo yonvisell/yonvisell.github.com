@@ -3,7 +3,7 @@ layout: page
 title: Laboratory
 tagline: Content for science
 ---
-{% include JB/setup %}
+#{% include JB/setup %}
 
 Lab website: [RE Touch Lab](http://www.re-touch-lab.com)
 
